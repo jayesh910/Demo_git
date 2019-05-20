@@ -1,0 +1,5 @@
+projectKey=html_project_alm19:master
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/html_project_alm19:master
+ceTaskId=AWrAaH04PZyu5t25w3QQ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWrAaH04PZyu5t25w3QQ
